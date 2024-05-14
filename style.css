@@ -66,6 +66,10 @@ a {
     text-decoration: none;
 }
 
+span{
+    color: black;
+}
+
 .degrade{
     background: linear-gradient(to right,  #FFB6BD, rgb(21, 23, 70) );
 }
